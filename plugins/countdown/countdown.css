@@ -1,0 +1,54 @@
+.counter{
+    width: 545px; 
+    margin: 0 auto;
+}
+
+.counter .start_time{
+    display: none;
+}
+.counter .interval{
+    display: none;
+}
+
+.counter .cntSeparator {
+    font-size: 54px;
+    margin: 10px 7px;
+    color: #000;
+}
+ .desc {
+    width: 545px; 
+    margin: 7px auto;
+     
+}
+ .desc div {
+    float: left;
+    font-family: Arial;
+    width: 70px;
+    margin-right: 75px;
+    font-size: 13px;
+    font-weight: bold;
+    color: #000;
+}
+.desc div.last {
+    margin-right: 0;
+}
+
+
+.counter_mini .cntSeparator{
+    font-size: 25px;
+    margin: 2px;
+    color: #000;    
+}
+
+
+ .desc_mini div {
+    float: left;
+    font-family: Arial;
+    width: 48px;
+    margin-right: 11px;
+    font-size: 10px;
+    font-weight: bold;
+    color: #000;
+    text-align: center;
+}
+
